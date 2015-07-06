@@ -1,0 +1,8 @@
+c:\users\mahulea\documents\visual studio 2013\Projects\Supermarket.Console\Supermarket.Console\bin\Debug\Supermarket.Console.exe.config
+c:\users\mahulea\documents\visual studio 2013\Projects\Supermarket.Console\Supermarket.Console\bin\Debug\Supermarket.Console.exe
+c:\users\mahulea\documents\visual studio 2013\Projects\Supermarket.Console\Supermarket.Console\bin\Debug\Supermarket.Console.pdb
+c:\users\mahulea\documents\visual studio 2013\Projects\Supermarket.Console\Supermarket.Console\bin\Debug\Supermarket.Domain.dll
+c:\users\mahulea\documents\visual studio 2013\Projects\Supermarket.Console\Supermarket.Console\bin\Debug\Supermarket.Domain.pdb
+c:\users\mahulea\documents\visual studio 2013\Projects\Supermarket.Console\Supermarket.Console\obj\Debug\Supermarket.Console.csprojResolveAssemblyReference.cache
+c:\users\mahulea\documents\visual studio 2013\Projects\Supermarket.Console\Supermarket.Console\obj\Debug\Supermarket.Console.exe
+c:\users\mahulea\documents\visual studio 2013\Projects\Supermarket.Console\Supermarket.Console\obj\Debug\Supermarket.Console.pdb

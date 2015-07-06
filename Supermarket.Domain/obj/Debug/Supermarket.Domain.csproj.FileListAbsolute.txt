@@ -1,0 +1,4 @@
+c:\users\mahulea\documents\visual studio 2013\Projects\Supermarket.Console\Supermarket.Domain\bin\Debug\Supermarket.Domain.dll
+c:\users\mahulea\documents\visual studio 2013\Projects\Supermarket.Console\Supermarket.Domain\bin\Debug\Supermarket.Domain.pdb
+c:\users\mahulea\documents\visual studio 2013\Projects\Supermarket.Console\Supermarket.Domain\obj\Debug\Supermarket.Domain.dll
+c:\users\mahulea\documents\visual studio 2013\Projects\Supermarket.Console\Supermarket.Domain\obj\Debug\Supermarket.Domain.pdb
